@@ -34,7 +34,7 @@ This project is a Postman/Newman automated test suite for a Mobile Financial Ser
 
 - Clone this project
    ```console
-   git clone https://github.com/rashadkhan97/dMoney_Postman-API-with-Newman_B19.git
+   git clone https://github.com/psdev17/DMoney_Assignment_B19.git
    ```
 - Open with any code editor / Command Shell
 - Give the following command ```npm i``` and ```node .\report.js```
