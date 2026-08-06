@@ -62,4 +62,6 @@ API-Assignment/
 
 ## Newman Report
 <img width="613" height="601" alt="image" src="https://github.com/user-attachments/assets/54666360-e53c-417a-aa1d-7ece37492ced" />
+<img width="757" height="601" alt="image" src="https://github.com/user-attachments/assets/e0297c94-56be-4b49-bc99-6cf1e9fd9041" />
+
 
