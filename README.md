@@ -1,4 +1,4 @@
-# **API Assignment - DMoney API Testing with Newman**
+# **DMoney API Testing with Newman**
 
 ## **Content**
 1. [Introduction](#introduction)
